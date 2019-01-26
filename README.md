@@ -1,5 +1,5 @@
 # Structured-Generative-Art
-Computational Art: Lab 5 (Randomly Generated Skyline)
+Computational Art: Lab 4 Part 2 (Randomly Generated Skyline)
 
 In this lab, I created a function for one building and had a for loop make multiple buildings.
 
